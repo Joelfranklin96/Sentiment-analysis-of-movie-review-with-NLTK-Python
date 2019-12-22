@@ -1,1 +1,1 @@
-# Sentiment-analysis-of-movie-review-with-NLTK-Python
+Worked on the 'movie_reviews' dataset in nltk.corpus. Classified the movie reviews into positive and negative.
